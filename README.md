@@ -1,16 +1,18 @@
-# flutter_application_003
+# Oyun Ve Uygulama Akademisi Notları
 
-A new Flutter project.
+Bu repository, Oyun Ve Uygulama Akademisi'nde aldığım notları içermektedir. Burada yer alan içerikler, derslerden elde ettiğim bilgileri ve paylaşmaya değer bulduğum kaynakları içerir.
 
-## Getting Started
+## İçerik
 
-This project is a starting point for a Flutter application.
+## Notlar
 
-A few resources to get you started if this is your first Flutter project:
+- Not 1: ...
+- Not 2: ...
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Katkıda Bulunma
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Eğer herhangi bir hata bulursanız veya katkıda bulunmak istiyorsanız, lütfen açık bir sorun (issue) oluşturun veya bir pull talebi (pull request) gönderin. 
+
+## Lisans
+
+Bu repository [MIT lisansı](LICENSE) altında lisanslanmıştır. Detaylı bilgi için lisans dosyasını kontrol edin.
